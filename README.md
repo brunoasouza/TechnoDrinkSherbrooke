@@ -1,5 +1,6 @@
 # Techno Drink Sherbrooke!
 
+
 Bonjour Hi !! Je m'appelle [Bruno Ábia]([https://www.linkedin.com/in/brunoabia/](https://www.linkedin.com/in/brunoabia/)) et J'ai fait une présentation dans le Techno Drink Sherbrooke (19/02/2020). Ici, vous pouvez trouver tous les matériaux que j'ai utilisé pour faire la présentation.
 
 # Files
@@ -21,4 +22,11 @@ Bonjour Hi !! Je m'appelle [Bruno Ábia]([https://www.linkedin.com/in/brunoabia/
 - Shap Values: https://github.com/slundberg/shap
 - Back-testing: https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/
 - Dataset: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview
+
+# Acknowledgment
+
+<img style="float:left;margin:0 10px 10px 0" src="https://github.com/brunoasouza/TechnoDrinkSherbrooke/blob/master/Code/img/pydatamanaus.png" width="150" height="50" />
+
+
+
 
