@@ -3,6 +3,8 @@
 
 Bonjour Hi !! Je m'appelle [Bruno Ábia]([https://www.linkedin.com/in/brunoabia/](https://www.linkedin.com/in/brunoabia/)) et J'ai fait une présentation dans le Techno Drink Sherbrooke (19/02/2020). Ici, vous pouvez trouver tous les matériaux que j'ai utilisé pour faire la présentation.
 
+Mon courriel: bruno.abia@gmail.com ou bruno.abia@icomp.ufam.edu.br
+
 # Files
 
  - Codes -  Vous trouverez le jupyter notebook avec le code pour créer les images et l'analyse;
